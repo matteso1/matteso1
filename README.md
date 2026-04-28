@@ -1,4 +1,4 @@
-  # Nils Matteson
+ # Nils Matteson
 
   Senior @ UW-Madison, CS + Data Science (graduating May 2026). Solo founder of
   [thaw](https://thaw.sh) — building the fork primitive for live LLM inference. Open-source,
@@ -15,8 +15,10 @@
     GiB freed via CuMemAllocator. ~9,400 LOC Rust core across 5 crates + ~3,000 LOC Python; now
     also runs on Apple Silicon (MLX). On PyPI as `thaw-vllm` / `thaw-native`.
 
-  - **ProjectGorgon** — speculative decoding for Llama-3-8B with custom CUDA kernels. Taught
-    myself GPU programming for this; led directly to thaw.
+  - **[ProjectGorgon](https://github.com/matteso1/ProjectGorgon)** — Medusa-style speculative
+    decoding for Llama-3-8B with custom CUDA kernels. 5-head architecture, per-head loss
+    weighting (λ_k = 0.8^k), trained on UltraChat 200k. Taught myself GPU programming for this;
+    led directly to thaw.
 
   - **[madison-bus-eta](https://madisonbuseta.com)** — live. Real-time arrival predictions for
     all 29 Madison Metro routes. XGBoost on 47 features, Mondrian conformal prediction (90%
@@ -33,10 +35,10 @@
   - **lockbox** — zero-trust, air-gapped password manager. AES-256-GCM + Argon2id, TOTP 2FA,
     compiles to a single `.exe`. No cloud, no telemetry, no network calls.
 
-  Talk: *Deploying RAG in Bedrock vs. Local* — ML+X Forum, Feb 2026.
+  Talk: [*Deploying RAG in Bedrock vs. Local*](https://uw-madison-datascience.github.io/ML-X-Nexus/Applications/Videos/Forums/mlx_2026-02-17.html) — ML+X Forum, Feb 2026.
 
   Currently full-time on thaw. Open to conversations with people working on inference
   infrastructure, agent systems, LLM RL post-training, or anything composability-related at the
   GPU-state layer. Reach me at **nils@thaw.sh**.
 
-  [thaw.sh](https://thaw.sh) · [linkedin](https://www.linkedin.com/in/nilsmatteson) · [thaw on github](https://github.com/thaw-ai/thaw)
+  [thaw.sh](https://thaw.sh) · [linkedin](https://www.linkedin.com/in/nilsmatteson) · [github](https://github.com/matteso1)
