@@ -1,9 +1,10 @@
- # Nils Matteson
+  # Nils Matteson
 
-  Senior @ UW-Madison, CS + Data Science (graduating May 2026). Solo founder of
-  [thaw](https://thaw.sh) — building the fork primitive for live LLM inference. Open-source,
-  pip-installable, integrates with vLLM and SGLang. Background in ML reliability (uncertainty
-  quantification, OOD detection, conformal prediction) and systems work on the side.
+  Senior @ UW-Madison, CS + Data Science (graduating May 2026). Moving to the Bay Area in fall
+  2026 to start a Masters in CS @ Northeastern. Solo founder of [thaw](https://thaw.sh) — building the fork
+  primitive for live LLM inference. Open-source, pip-installable, integrates with vLLM and
+  SGLang. Background in ML reliability (uncertainty quantification, OOD detection, conformal
+  prediction) and systems work on the side.
 
   Some things I've built:
 
