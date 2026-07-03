@@ -62,3 +62,5 @@ conversations with people working on inference infrastructure, GPU runtimes, age
 LLM RL post-training. Reach me at **nils@thaw.sh**.
 
 [nilsmatteson.com](https://nilsmatteson.com) · [thaw.sh](https://thaw.sh) · [arXiv](https://arxiv.org/abs/2606.15621) · [linkedin](https://www.linkedin.com/in/nilsmatteson)
+
+![GitHub Contribution Graph](https://github-contribution-graph.ez4o.com/?username=matteso1)   
