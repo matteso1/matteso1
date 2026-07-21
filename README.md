@@ -1,6 +1,6 @@
 # Nils Matteson
 
-vLLM contributor (two merged core PRs) and vLLM open-source fellow, sponsored by Inferact,
+vLLM contributor and vLLM open-source fellow, sponsored by Inferact,
 working on engine cold-start and model hot-swap. Creator of [thaw](https://thaw.sh), open-source
 infrastructure for snapshotting and forking live LLM inference. Sole author of an arXiv
 measurement study on replay noise. B.S. Data Science + CS, UW-Madison (May 2026); M.S. CS at
