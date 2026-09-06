@@ -25,4 +25,4 @@ Eight merged PRs in core, three open ([all of them](https://github.com/vllm-proj
 
 Talk: [Deploying RAG in Bedrock vs. Local](https://uw-madison-datascience.github.io/ML-X-Nexus/Applications/Videos/Forums/mlx_2026-02-17.html), ML+X Forum.
 
-**nils@thaw.sh** · [nilsmatteson.com](https://nilsmatteson.com) · [thaw.sh](https://thaw.sh) · [linkedin](https://www.linkedin.com/in/nilsmatteson)
+**nilsmatteson@icloud.com** · [nilsmatteson.com](https://nilsmatteson.com) · [thaw.sh](https://thaw.sh) · [linkedin](https://www.linkedin.com/in/nilsmatteson)
